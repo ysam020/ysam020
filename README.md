@@ -51,7 +51,6 @@ const sameer = {
     tools: ["Prisma ORM", "BullMQ", "WebSockets"]
   },
   currentFocus: "Building secure & scalable apps",
-  funFact: "I optimize code like I optimize life!"
 };
 ```
 
